@@ -1,12 +1,13 @@
 {
-  "name": "bth012-a1-part-a",
+  "name": "assignment1",
   "version": "1.0.0",
   "description": "The project template to use for BTH012 Assignment 1 part A",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
-    "test": "vitest"
+    "test": "vitest run",
+    "tests": "vitest run"
   },
   "repository": {
     "type": "git",
